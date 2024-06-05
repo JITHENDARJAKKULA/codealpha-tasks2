@@ -1,0 +1,39 @@
+img{
+    border-radius:2cm;
+    perspective-origin: 1cm;
+}
+
+#box{
+    height: 300px;
+    width: 300px;
+    background-color: black;
+
+}
+body{
+    background-color: seashell;
+}
+h1{
+    text-align: center;
+    color: black;
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+P1{
+    
+    font-style: initial;
+}
+
+li{
+    border:1px;
+    background-color: rgb(255, 255, 255);
+    padding: 1px;
+    margin-bottom: 9px;
+
+}
+.lang{
+    text-align: center;
+    background-color: chartreuse;
+}
+.Projects{
+    background-color: aqua;
+}
