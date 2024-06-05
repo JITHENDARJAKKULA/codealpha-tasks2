@@ -35,5 +35,37 @@ li{
     background-color: chartreuse;
 }
 .Projects{
+    background-color: rgb(0, 255, 85);
+    padding: 0px;
+    border-spacing: 0px;
+}
+footer{
+    background-color: black;
+    padding: 30px;
+    text-align: center;
+    padding-left: 50px;
+    color: white;
+    text-underline-offset:2px;
+    
+}
+.skills{
+    background-color: rgb(196, 255, 211);
+}
+body{
+    background-color: aliceblue;
+}
+header{
     background-color: aqua;
 }
+header{
+    width: 2000px;
+    height: 100px;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 4s;
+  }
+  
+  @keyframes example {
+    from {background-color: rgb(255, 0, 221);}
+    to {background-color: yellow;}
+  }
